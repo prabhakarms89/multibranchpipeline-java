@@ -19,7 +19,7 @@ class Prime
 	   }
 	}
 	if(count==2)
-	       System.out.println("prime number ");
+	       System.out.println("this is a prime number ");
 	else
 	System.out.println("Not a prime number ");        
    } 
